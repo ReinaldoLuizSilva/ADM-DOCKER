@@ -12,3 +12,4 @@ def listar_images():
 
 if __name__ == "__main__":
     listar_container()
+    listar_images()
